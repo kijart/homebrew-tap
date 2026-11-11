@@ -33,3 +33,7 @@ Casks are bumped automatically when a new release is published in the app's repo
 ## Issues
 
 Report problems with the app or its cask in [kijart/network-menu-bar](https://github.com/kijart/network-menu-bar/issues).
+
+## License
+
+[MIT](LICENSE)
