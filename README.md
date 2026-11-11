@@ -2,9 +2,9 @@
 
 [Homebrew](https://brew.sh) casks for apps by [@kijart](https://github.com/kijart).
 
-| Cask               | App                                                                                                                                       |
-| ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| `network-menu-bar` | [Network Menu Bar](https://github.com/kijart/network-menu-bar): Ethernet, Wi‑Fi and VPN status and every IP address in the macOS menu bar |
+## Casks
+
+- `network-menu-bar`: [Network Menu Bar](https://github.com/kijart/network-menu-bar), Ethernet, Wi‑Fi and VPN status and every IP address in the macOS menu bar.
 
 ## Install
 
