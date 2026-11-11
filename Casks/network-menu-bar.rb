@@ -1,6 +1,6 @@
 cask "network-menu-bar" do
-  version "0.1.1"
-  sha256 "a52c36ea1223b109d0e6f0f927df3e5e49dcd0f6aada246367e2a69712d7f454"
+  version "0.2.0"
+  sha256 "9fd0584595b6bcf58e83b5cf899b7aa5908238734ac7121e4b204b98aa47f0fe"
 
   url "https://github.com/kijart/network-menu-bar/releases/download/#{version}/Network-Menu-Bar-#{version}.dmg"
   name "Network Menu Bar"
