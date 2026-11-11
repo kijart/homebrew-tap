@@ -29,3 +29,7 @@ These apps are ad‑hoc signed and not notarized by Apple. Each cask removes the
 ## Updates
 
 Casks are bumped automatically when a new release is published in the app's repository.
+
+## Issues
+
+Report problems with the app or its cask in [kijart/network-menu-bar](https://github.com/kijart/network-menu-bar/issues).
